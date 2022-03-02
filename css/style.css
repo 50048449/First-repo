@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(4, 9, 10);
+    color: rgb(204, 159, 159);
+    font-family: verdana;
+    font-size: 20px;
+  }
+.activity {
+      color:rgb(210, 210, 219)
+  }
+  .activity2 {
+    color:rgb(255, 0, 13)
+}
+.activity3 {
+    color:rgb(21, 255, 0)
+}
+#title {
+    color:coral
+}
